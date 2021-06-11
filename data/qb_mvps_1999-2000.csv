@@ -1,4 +1,4 @@
-Player,Team,Season,Plays,EPA+CPOE composite,EPA/play,Unadjusted EPA/play,Success rate,Cmp%,Expected cmp%,CPOE,Air yards,MVP,EPA/play Rk
+player,team,season,plays,epa_cpoe_composite,epa_per_play,unadjusted_epa_per_play,success_rate,comp_pct,expected_comp_pct,cpoe,air_yards,mvp,epa_per_play_rank
 K.Warner,LA,1999,527,0.17,0.343,0.327,50.90%,,,0,,Yes,1
 K.Warner,LA,2001,635,0.135,0.243,0.226,51.70%,,,0,,Yes,1
 R.Gannon,LV,2002,720,0.128,0.224,0.207,53.90%,,,0,,Yes,2
