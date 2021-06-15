@@ -1,0 +1,21 @@
+name,season,route,cp,catchable_pass_pct,passing_yards,pass_touchdown,interception,rating
+J. Winston,2018,slant,68.0%,80.0%,255,2,0,127.9
+J. Winston,2019,slant,52.8%,61.1%,227,1,2,58.4
+J. Winston,2018,comeback,72.0%,76.0%,254,0,0,104.4
+J. Winston,2019,comeback,60.9%,63.0%,389,1,5,55.7
+J. Winston,2018,curl,75.0%,77.9%,471,3,1,102
+J. Winston,2019,curl,72.6%,82.2%,515,1,4,75.7
+J. Winston,2018,out,69.6%,71.7%,313,1,0,95.7
+J. Winston,2019,out,62.4%,63.4%,560,2,2,77.4
+J. Winston,2019,in,76.5%,79.4%,311,4,1,130.9
+J. Winston,2016,corner,61.1%,61.1%,208,6,0,140.7
+J. Winston,2019,corner,50.0%,50.0%,430,8,3,94.6
+J. Winston,2016,post,53.1%,56.3%,611,6,2,104.4
+J. Winston,2019,post,55.1%,57.1%,556,4,6,82.9
+J. Winston,2019,go,33.3%,40.0%,921,5,3,86.6
+J. Winston,2019,wr_screen,84.2%,86.7%,201,2,0,106.3
+J. Winston,2019,under_screen,85.2%,85.2%,245,0,0,104.5
+J. Winston,2016,cross,56.8%,59.5%,193,4,1,95.9
+J. Winston,2019,cross,64.0%,70.0%,503,1,2,87.3
+J. Winston,2017,flat,87.8%,87.8%,290,4,0,128.7
+J. Winston,2019,flat,80.4%,82.5%,251,4,2,97
